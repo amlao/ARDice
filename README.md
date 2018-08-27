@@ -1,1 +1,1 @@
-# Learning AR kit through projects
+# Learning ARKit through projects
